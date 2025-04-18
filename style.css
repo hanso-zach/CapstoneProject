@@ -82,18 +82,5 @@
     font-size: 0.9rem;
   }
   
-  /* Responsive tweaks */
-  @media (max-width: 768px) {
-    nav {
-      flex-direction: column;
-    }
-  
-    nav a {
-      margin: 8px 0;
-    }
-  
-    .container {
-      padding: 15px;
-    }
-  }
+
   
