@@ -1,1 +1,36 @@
-# CapstoneProject
+# CapstoneProject# Security & Disaster Recovery Plan Website
+
+## Project Overview
+This project is a web-based capstone that showcases a comprehensive approach to security and disaster recovery (DR) planning. It provides a structured framework that organizations—both large and small—can use to implement policies, evaluate risks, and prepare for future challenges.
+
+## Objectives
+- Present a full security and disaster recovery plan.
+- Highlight key policies for access control, data protection, and incident response.
+- Demonstrate risk assessment methods, including models from the FAIR Institute.
+- Provide implementation strategies, testing procedures, and future improvement plans.
+
+## Pages & Content
+The website consists of the following sections:
+
+- **Introduction**: Overview of the project, problem statement, and goals.
+- **Plan**: Introduction to risk, policy, and DR strategy.
+- **Policies**: Access control, data protection, and incident response policies.
+- **Risk Assessment**: Identification of threats and risk impact analysis.
+- **Disaster Recovery**: Recovery strategies, business planning, and testing.
+- **Testing**: Deployment plan, legal compliance, and measuring success.
+- **Organizations**: Benefits of security/DR plans for small vs. large organizations.
+- **FAIR Institute**: Integration of FAIR risk quantification models.
+- **Future Challenges**: Anticipated trends and future considerations.
+- **About Me**: Information about the developer and purpose of the project.
+- **Conclusion**: Summary and reflection on the capstone.
+
+## Technologies Used
+- HTML5
+- CSS3
+- Visual Studio Code
+- Git & GitHub
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hanso-zach/CapstoneProject.git
